@@ -1,1 +1,2 @@
 # python_learning
+ipynbファイルクリックするとJupyter Notebook形式で閲覧可能
